@@ -10,4 +10,4 @@ Files also used not stored in source code due to sensitive data.
 
 ### Reference
 Google Sheets
-- (API Docs)[https://developers.google.com/sheets/api/guides/concepts]
+- [API Docs](https://developers.google.com/sheets/api/guides/concepts)
